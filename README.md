@@ -45,7 +45,7 @@ This project uses the “Telco Customer Churn” dataset to build models that pr
 
 ## 📈 Model Performance  
 _Example model results (your actual numbers may vary):_  
-- Accuracy: ~ 80‑90%  
+- Accuracy: ~ 83%  
 - Precision / Recall: (see notebook)  
 - ROC‑AUC: (see notebook)  
 Compare different models and select the one balancing precision/recall and business cost of false positives/negatives.  
